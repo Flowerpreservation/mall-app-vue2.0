@@ -7,4 +7,5 @@
 使用：vue-museUI库
 
 详情配置见：package.json文件
+
 启动应用：npm install -> npm run dev
